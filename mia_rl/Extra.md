@@ -1,12 +1,6 @@
-# AR_Portfolio
-Portfolio for Reinforced Learning
+# Otimização do Algoritmo REINFORCE no Tic-Tac-Toe: Torneio & Parameter Annealing
 
----
-
-## Conteudo
-
-Este portfolio possui as resoluções das aulas praticas e dos exercicios opcionais.
-Foi também adicionado algum conteudo novo para explorar o codigo feito nas aulas práticas
+Para melhorar o portfolio decide centrar-me em duas vertentes: estabilização matemática do processo de treino através de *annealing* e a criação de uma infraestrutura de testes para avaliar o agente contra políticas estocásticas de forma determinística.
 
 ---
 
@@ -57,7 +51,7 @@ A análise do gráfico de avaliação intermédia contra o oponente aleatório r
 
 ---
 
-## Como Executar
+## 🛠️ Como Executar as Experiências
 
 Para reproduzir o treino com o decaimento de parâmetros e correr o torneio final de avaliação, executa o seguinte comando no terminal:
 

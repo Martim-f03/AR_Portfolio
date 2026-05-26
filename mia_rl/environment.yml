@@ -1,0 +1,30 @@
+name: rl
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+
+  # core scientific stack
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+
+  # utils
+  - tqdm
+  - tabulate
+
+  # notebook/debug (opcional mas útil)
+  - ipython
+  - ipykernel
+
+  # pip packages
+  - pip
+  - pip:
+      - arcade==3.3.3
+      - gridworld==0.1
+      - pillow
+      - pyglet
+      - pymunk
+      - pytiled-parser
