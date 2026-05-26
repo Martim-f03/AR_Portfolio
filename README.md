@@ -67,6 +67,7 @@ python3 -m mia_rl.scripts.run_tictactoe_tournament
 
 E depois conferir os resultados na pasta outputs/tictactoe_reinforce
 
+---
 
 # RL_Portfolio_English
 Portfolio for the Reinforcement Learning course
